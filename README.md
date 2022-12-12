@@ -96,3 +96,45 @@ while Loop:
         Loop = False
 ```
 ### Penjelasan
+1. Untuk memanggil fungsi dengan nama "os".
+![img](ss/Screenshot%20(58).png)
+
+2. Membuat class data_mhsw dengan atributnya, yaitu nama, nim, tugas, uts dan uas.
+![img](ss/Screenshot%20(59).png)
+
+3. Membuat variable data = [] untuk menampung list dari data_mhsw.
+![img](ss/Screenshot%20(60).png)
+
+4. Menambah data ( tambah() )
+
+Menginput nim, nama, nilai tugas, nilai uts dan nilai uas.
+
+Data yang telah diinput akan ditambahkan ke dalam variable data.
+# OUTPUT TAMBAH()
+![img](ss/Screenshot%20(50).png)
+
+5. Menampilkan data ( lihat() )
+
+Jika belum menginput data, maka akan memanggil fungsi no_data().
+
+Jika sebelumnya sudah menginput data, maka data yang sudah diinput akan ditampilkan oleh program.
+# OUTPUT LIHAT()
+![img](ss/Screenshot%20(54).png)
+
+6. Mengubah data ( ubah() )
+
+Menginput nama, kemudian input data yang ingin diubah.
+# OUTPUT UBAH()
+![img](ss/Screenshot%20(53).png)
+
+7. Menghapus data ( hapus() )
+
+Menginput nama, setelah nama diinput maka data yang lainnya akan ikut terhapus sesuai dengan nama yang diinputkan.
+# OUTPUT HAPUS ()
+![img](ss/Screenshot%20(56).png)
+
+8. Menggunakan perulangan uncountable, yang artinya selama statement bernilai "True" maka program akan terus berjalan. Jika statementnya "False" maka program terhenti.
+![img](ss/Screenshot%20(62).png)
+
+### FLOWCHART 
+![img](ss/Flowchart.jpeg)
